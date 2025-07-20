@@ -41,7 +41,7 @@ This project trains Qwen3-4B-Instruct using both GRPO and SFT with LoRA-based pa
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/namma-neurons/qwen3-finetune.git
+git clone https://github.com/nabobery/AMD-AI-Sprint-Hackathon-2025.git
 cd qwen3-finetune
 
 python -m venv venv
